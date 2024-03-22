@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0px;
+}
+
+.header {
+    background-color: aqua;
+    padding: 20px;
+    color: white;
+}
+
+.introduction {
+   background-color: gray; 
+   margin-top: 20px;
+   padding: 5px;
+   
+}
+.Skills {
+    padding: 20px;
+}  
+.Skills li {
+    margin-bottom: 5px;
+} 
+.Contact {
+    padding: 20px;
+}
+.Contact li {
+    
+    text-decoration: none;
+}
+
